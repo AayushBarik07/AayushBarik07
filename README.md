@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f42bb1f-ed5c-4632-8662-2dd7a83fd557" alt="Coder Cat" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/8f42bb1f-ed5c-4632-8662-2dd7a83fd557" alt="Coder Cat" width="150" height="150" style="border-radius: 10px">
 </p>
 <h1 align="center">Hi 👋, I'm Aayush Barik</h1>
 <h3 align="center">A passionate Web developer.</h3>
