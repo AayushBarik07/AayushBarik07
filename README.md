@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushbarik07" alt="aayushbarik07" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently mastering **MERN**
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/AayushBarik07?tab=repositories)
 
