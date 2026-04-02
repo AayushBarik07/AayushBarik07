@@ -4,10 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Barik</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushbarik07" alt="aayushbarik07" /></a> </p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushbarik07&show_icons=true&theme=radical" alt="Aayush's GitHub stats" />
-</p>
+
 
 - 🌱 I’m currently mastering **MERN**
 
