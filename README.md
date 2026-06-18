@@ -1,28 +1,35 @@
-<!-- HEADER BANNER — replace the src URL below with your own banner image/GIF once you have it -->
-<p align="center">
-  <img src="<!-- HEADER BANNER — replace the src URL below with your own banner image/GIF once you have it -->
-<!-- <p align="center">
-  <img src="<!-- HEADER BANNER — replace the src URL below with your own banner image/GIF once you have it -->
-<!-- <p align="center">
-  <img src="https://pin.it/1Q3C2iChR" alt="Banner" width="100%" />
-</p> -->
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=120&section=header" width="100%" />
 
-<!-- ANIMATED TYPING INTRO -->
-<p align="center">
-  <a href="https://github.com/AayushBarik07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aayush+Barik+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+DSA+Lover" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AayushBarik07&style=flat-square&color=grey" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AayushBarik07?label=Followers&style=flat-square&color=grey" alt="followers" />
-</p>
+<!-- TWO COLUMN HERO: Text left, GIF right -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="middle">
+      <h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hi+there%2C+I'm+Aayush+Barik+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+DSA+Lover" alt="Typing SVG" />
+      </h1>
+      <br/>
+      <p>🌱 &nbsp;Currently mastering <strong>MERN Stack</strong></p>
+      <p>💻 &nbsp;Building projects with <strong>React, Node.js & MongoDB</strong></p>
+      <p>🧠 &nbsp;Passionate about <strong>DSA & Problem Solving</strong></p>
+      <p>🤝 &nbsp;Open to <strong>collaborations & freelance work</strong></p>
+      <p>⚡ &nbsp;Fun fact: <em>I write code like a grocery list — mostly accurate, occasionally chaotic 🛒</em></p>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=AayushBarik07&style=flat-square&color=555555&label=Profile+Views" alt="profile views" />
+      &nbsp;
+      <img src="https://img.shields.io/github/followers/AayushBarik07?label=Followers&style=flat-square&color=555555" alt="followers" />
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="340" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧑‍💻 About Me
+
+```javascript
 const aayush = {
   name:       "Aayush Barik",
   role:       "Full Stack Web Developer",
@@ -33,6 +40,7 @@ const aayush = {
   portfolio:  "https://my-portfolio-zeta-cyan-59.vercel.app",
   funFact:    "I write code like a grocery list — mostly accurate, occasionally chaotic 🛒",
 };
+```
 
 ---
 
@@ -125,12 +133,5 @@ const aayush = {
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:444444&height=80&section=footer" />
-</p>
-```
-
----
-
-> ⚠️ **One important note** — the `About Me` code block uses triple backticks inside triple backticks which can't be shown cleanly in chat. In the downloaded `.md` file everything is correct. **Please use the downloaded file above** for the exact copy-paste ready content — it's perfectly formatted and ready to go directly into your GitHub profile repo." alt="Banner" width="100%" />
-</p> -->
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" />
