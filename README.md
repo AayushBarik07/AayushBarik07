@@ -47,8 +47,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:61DAFB,100:7952B3&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
-
 <br/>
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
