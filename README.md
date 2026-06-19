@@ -1,15 +1,24 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d2f3f,100:1a1b27&height=100&section=header&text=Welcome%20&fontSize=50&fontColor=F7DF1E&fontAlignY=65&animation=fadeIn&desc" />
 <!-- Animated Typing Introduction -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there!+I'm+Aayush+Barik+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack+Enthusiast+%F0%9F%9A%80;Building+ideas%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hey+there!+I'm+Aayush+Barik+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack+Enthusiast+%F0%9F%9A%80;Building+ideas%2C+%F0%9F%9A%80+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<br/>
-<!-- Visitor Badge -->
-<!--
-[![](https://komarev.com/ghpvc/?username=AayushBarik07&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+<br/><br/>
+
+<!-- Info Pills -->
+<img src="https://img.shields.io/badge/📍_Based_in-India-20232a?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/💼_Open_to-Work_%26_Collabs-brightgreen?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/☕_Fuel-Chai_%2B_Code-brown?style=for-the-badge" />
+<br/><br/>
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=AayushBarik07&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/AayushBarik07?style=for-the-badge&color=blue&label=FOLLOWERS" />
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aayush-barik-49882b247) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2S81BguMM) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/aayush_barik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:superbsup45@gmail.com) 
 
@@ -37,7 +46,11 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:61DAFB,100:7952B3&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
-<br/>
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:61DAFB,100:7952B3&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+
+<br/>
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
