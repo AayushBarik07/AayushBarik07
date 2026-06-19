@@ -6,10 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there!+I'm+Aayush+Barik+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack+Enthusiast+%F0%9F%9A%80;Building+ideas%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br/>
-
 <!-- Visitor Badge -->
+<!--
 [![](https://komarev.com/ghpvc/?username=AayushBarik07&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aayush-barik-49882b247) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2S81BguMM) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/aayush_barik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:superbsup45@gmail.com) 
 
